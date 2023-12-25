@@ -19,6 +19,9 @@ Finding the given length of the words by using len() fuction.
 Calling the function and Printing the number of words.
 ## PROGRAM:
 ```
+#Program to get the word count from the text
+#Developed by: KARTHIKEYAN M
+#Register no: 23005191
 num_words=0
 with open('/content/drive/MyDrive/mk',"r") as f:
   for line in f:
